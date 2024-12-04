@@ -1,4 +1,4 @@
-Make sure you have docker install
+Make sure you have docker installed
 
 to run : make up
 to migrate : make migrate
